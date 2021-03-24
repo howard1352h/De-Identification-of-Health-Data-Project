@@ -14,14 +14,11 @@ pip install -r requirements.txt
 ## 訓練
 <br>預設 train_data 為 ~\data_path\train_1_CRF.txt</br>
 <br>預設 test_data 為 ~\data_path\test_1_CRF.txt</br>
-```
-python main.py --mode=train
-```
+```python main.py --mode=train```
+
 ## 生成預測的醫病資料
 會生成副檔名為.tsv的預測資料
-```
-python main.py --mode=demo --demo_model=YOUR_DEMO_MODEL 
-```
+```python main.py --mode=demo --demo_model=YOUR_DEMO_MODEL ```
 
 
 

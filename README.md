@@ -7,7 +7,7 @@
 ### 使用環境及工具
 使用**Ubuntu Server 16.04 LTS server**，顯卡為**Geforce GTX 1080 Ti**  
 使用python的版本為**3.6.5**  
-使用PIP安裝project需要的套件，打開terminal移至此project的資料夾並輸入以下命令  
+使用pip安裝project需要的套件，打開terminal移至此project的資料夾並輸入以下命令  
 ```pip install -r requirements.txt```
 
 ### 訓練
